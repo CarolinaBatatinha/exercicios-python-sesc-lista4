@@ -45,9 +45,9 @@ for i in range(1, 6):
 for num in numeros:
     par_impar(num)
 
-media = calcula_media(*numeros)
-menorNum = menor_valor(*numeros)
-maiorNum = maior_valor(*numeros)
+media = calcula_media(* numeros)
+menorNum = menor_valor(* numeros)
+maiorNum = maior_valor(* numeros)
 
 print(f'''
 ====== RESULTADOS ======
